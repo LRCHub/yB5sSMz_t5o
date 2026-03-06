@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビレッジマンズ",
+  "base_artist": "ビレッジマンズストア",
+  "createdAt": "2026-03-06T05:44:27.710718Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビレッジマンズ",
+      "artist": "ビレッジマンズストア",
+      "has_synced": false,
+      "path": "select/pl_01_ビレッジマンズ_ビレッジマンズストア.txt"
+    }
+  ]
+}
